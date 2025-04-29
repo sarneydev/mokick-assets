@@ -1,0 +1,26 @@
+{
+    "gradient_list": [
+        {
+            "type": "buddy_classic",
+            "website_title": {
+                "type": "static",
+                "value": "Buddy (Classic)"
+            },
+            "style": {
+                "text": "background: linear-gradient(to right, #4fff4f, #097b09); background-size: 100% 100%; -webkit-background-clip: text; -webkit-text-fill-color: transparent;",
+                "background": "background: linear-gradient(to right, #4fff4f, #097b09); background-size: 100% 100%;"
+            }
+        },
+        {
+            "type": "buddy_colorful",
+            "website_title": {
+                "type": "static",
+                "value": "Buddy (Colorful)"
+            },
+            "style": {
+                "text": "background: linear-gradient(to right, #72ffc9, #73EC8B, #15B392); background-size: 100% 100%; -webkit-background-clip: text; -webkit-text-fill-color: transparent;",
+                "background": "background: linear-gradient(to right, #72ffc9, #73EC8B, #15B392); background-size: 100% 100%;"
+            }
+        }
+    ]
+}
