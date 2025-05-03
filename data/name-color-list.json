@@ -32,6 +32,39 @@
                 "text": "background: radial-gradient(ellipse at center, #7da3ff, #6d96ff, #3043a9); background-size:100% 100%; -webkit-background-clip:text; -webkit-text-fill-color:transparent;",
                 "background": "background: radial-gradient(ellipse at center, #7da3ff, #6d96ff, #3043a9); background-size:100% 100%;"
             }
+        },
+        {
+            "type": "mystwave",
+            "website_title": {
+                "type": "static",
+                "value": "Mystwave"
+            },
+            "style": {
+                "text": "background: linear-gradient(to right, #0096C7, #7B2CBF); background-size:100% 100%; -webkit-background-clip:text; -webkit-text-fill-color:transparent;",
+                "background": "background: linear-gradient(to right, #0096C7, #7B2CBF); background-size:100% 100%;"
+            }
+        },
+        {
+            "type": "pink_mirage",
+            "website_title": {
+                "type": "static",
+                "value": "Pink Mirage"
+            },
+            "style": {
+                "text": "background:linear-gradient(120deg, #a18cd1, #fbc2eb); background-size:100% 100%; -webkit-background-clip:text; -webkit-text-fill-color:transparent;",
+                "background": "background:linear-gradient(120deg, #a18cd1, #fbc2eb); background-size:100% 100%;"
+            }
+        },
+        {
+            "type": "glowberry",
+            "website_title": {
+                "type": "static",
+                "value": "Glowberry"
+            },
+            "style": {
+                "text": "background: linear-gradient(to right, #f7bae9, #f9a1bc, #ff5c8a);background-size:100% 100%;-webkit-background-clip:text;-webkit-text-fill-color:transparent;",
+                "background": "background: linear-gradient(to right, #f7bae9, #f9a1bc, #ff5c8a);background-size:100% 100%;"
+            }
         }
     ]
 }
