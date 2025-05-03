@@ -98,6 +98,50 @@
                 "text": "background: linear-gradient(135deg, #b66d4d, #c87857, #e4a26e); background-size:100% 100%;-webkit-background-clip:text;-webkit-text-fill-color:transparent;",
                 "background": "background: linear-gradient(135deg, #b66d4d, #c87857, #e4a26e); background-size:100% 100%;"
             }
+        },
+        {
+            "type": "autumn_blaze",
+            "website_title": {
+                "type": "static",
+                "value": "Autumn Blaze"
+            },
+            "style": {
+                "text": "background: linear-gradient(135deg, #ff7f00, #ff4500, #ff6347); background-size:100% 100%;-webkit-background-clip:text;-webkit-text-fill-color:transparent;",
+                "background": "background: linear-gradient(135deg, #ff7f00, #ff4500, #ff6347); background-size:100% 100%;"
+            }
+        },
+        {
+            "type": "lavender_haze",
+            "website_title": {
+                "type": "static",
+                "value": "Lavender Haze"
+            },
+            "style": {
+                "text": "background: linear-gradient(135deg, #b3a0e3, #a075d1, #8557d1); background-size:100% 100%;-webkit-background-clip:text;-webkit-text-fill-color:transparent;",
+                "background": "background: linear-gradient(135deg, #b3a0e3, #a075d1, #8557d1); background-size:100% 100%;"
+            }
+        },
+        {
+            "type": "midnight_blue",
+            "website_title": {
+                "type": "static",
+                "value": "Midnight Blue"
+            },
+            "style": {
+                "text": "background: linear-gradient(to right, #2c2cc3, #5681b9, #4b72c5); background-size:100% 100%;-webkit-background-clip:text;-webkit-text-fill-color:transparent;",
+                "background": "background: linear-gradient(to right, #2c2cc3, #5681b9, #4b72c5); background-size:100% 100%;"
+            }
+        },
+        {
+            "type": "olive_green",
+            "website_title": {
+                "type": "static",
+                "value": "Olive Green"
+            },
+            "style": {
+                "text": "background: linear-gradient(to left, #556b2f, #6b8e23, #8b9c61); background-size:100% 100%;-webkit-background-clip:text;-webkit-text-fill-color:transparent;",
+                "background": "background: linear-gradient(to left, #556b2f, #6b8e23, #8b9c61); background-size:100% 100%;"
+            }
         }
     ]
 }
