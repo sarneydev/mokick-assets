@@ -65,6 +65,28 @@
                 "text": "background: linear-gradient(to right, #f7bae9, #f9a1bc, #ff5c8a);background-size:100% 100%;-webkit-background-clip:text;-webkit-text-fill-color:transparent;",
                 "background": "background: linear-gradient(to right, #f7bae9, #f9a1bc, #ff5c8a);background-size:100% 100%;"
             }
+        },
+        {
+            "type": "frosted_silver",
+            "website_title": {
+                "type": "static",
+                "value": "Frosted Silver"
+            },
+            "style": {
+                "text": "background: linear-gradient(to right, #878787, #ffffff, #4f4f4f); background-size:100% 100%;-webkit-background-clip:text;-webkit-text-fill-color:transparent;",
+                "background": "background: linear-gradient(to right, #878787, #ffffff, #4f4f4f); background-size:100% 100%;"
+            }
+        },
+        {
+            "type": "mint_turquoise",
+            "website_title": {
+                "type": "static",
+                "value": "Mint Turquoise"
+            },
+            "style": {
+                "text": "background: linear-gradient(to right, rgb(75 243 218), rgb(19 111 107)); background-size:100% 100%;-webkit-background-clip:text;-webkit-text-fill-color:transparent;",
+                "background": "background: linear-gradient(to right, rgb(75 243 218), rgb(19 111 107)); background-size:100% 100%;"
+            }
         }
     ]
 }
