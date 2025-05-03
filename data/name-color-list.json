@@ -1,25 +1,36 @@
 {
     "gradient_list": [
         {
-            "type": "buddy_classic",
+            "type": "buddy_green",
             "website_title": {
                 "type": "static",
-                "value": "Buddy (Classic)"
+                "value": "Buddy Cool Moss"
             },
             "style": {
-                "text": "background: linear-gradient(to right, #4fff4f, #097b09); background-size: 100% 100%; -webkit-background-clip: text; -webkit-text-fill-color: transparent;",
-                "background": "background: linear-gradient(to right, #4fff4f, #097b09); background-size: 100% 100%;"
+                "text": "background: linear-gradient(to bottom left, #8ed352, #6ad355, #44e198); background-size:100% 100%; -webkit-background-clip:text; -webkit-text-fill-color:transparent;",
+                "background": "background: linear-gradient(to bottom left, #8ed352, #6ad355, #44e198); background-size:100% 100%;"
             }
         },
         {
-            "type": "buddy_colorful",
+            "type": "buddy_red",
             "website_title": {
                 "type": "static",
-                "value": "Buddy (Colorful)"
+                "value": "Buddy Red Ember"
             },
             "style": {
-                "text": "background: linear-gradient(to right, #72ffc9, #73EC8B, #15B392); background-size: 100% 100%; -webkit-background-clip: text; -webkit-text-fill-color: transparent;",
-                "background": "background: linear-gradient(to right, #72ffc9, #73EC8B, #15B392); background-size: 100% 100%;"
+                "text": "background:linear-gradient(135deg, #ff7f7f, #ff0000, #b22222); background-size:100% 100%; -webkit-background-clip:text; -webkit-text-fill-color:transparent;",
+                "background": "background:linear-gradient(135deg, #ff7f7f, #ff0000, #b22222); background-size:100% 100%;"
+            }
+        },
+        {
+            "type": "buddy_blue",
+            "website_title": {
+                "type": "static",
+                "value": "Buddy Blue Chills"
+            },
+            "style": {
+                "text": "background: radial-gradient(ellipse at center, #7da3ff, #6d96ff, #3043a9); background-size:100% 100%; -webkit-background-clip:text; -webkit-text-fill-color:transparent;",
+                "background": "background: radial-gradient(ellipse at center, #7da3ff, #6d96ff, #3043a9); background-size:100% 100%;"
             }
         }
     ]
