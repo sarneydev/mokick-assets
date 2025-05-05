@@ -140,7 +140,18 @@
             },
             "style": {
                 "text": "background: linear-gradient(to left, #556b2f, #6b8e23, #8b9c61); background-size:100% 100%;-webkit-background-clip:text;-webkit-text-fill-color:transparent;",
-                "background": "background: linear-gradient(to left, #556b2f, #6b8e23, #8b9c61); background-size:100% 100%;"
+                "background": "background: linear-gradient(to left  , #556b2f, #6b8e23, #8b9c61); background-size:100% 100%;"
+            }
+        },
+        {
+            "type": "golden_quack",
+            "website_title": {
+                "type": "static",
+                "value": "Golden Quack"
+            },
+            "style": {
+                "text": "background: linear-gradient(135deg, #ffffff, #ffce96, #ff9800); background-size:100% 100%;-webkit-background-clip:text;-webkit-text-fill-color:transparent;",
+                "background": "background: linear-gradient(135deg, #ffffff, #ffce96, #ff9800); background-size:100% 100%;"
             }
         }
     ]
